@@ -10,7 +10,7 @@ Prerequisites
 --------------------------
 - a Java 17 runtime environment or jdk.
 - an IDE with Maven plugin (project was created in IntelliJ Idea)
-- JavaFX - since Java 11 JavaFX is no longer part of the JDK so you need some extra dependencies. See [pom.xml](../match-scheduler/pom.xml).
+- JavaFX - since Java 11 JavaFX is no longer part of the JDK so you need some extra dependencies. See [pom.xml](https://github.com/slawidev/match-scheduler.git).
 - Click [here](https://openjfx.io) for more Info about JavaFX.
 
 How it works
