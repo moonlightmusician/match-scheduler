@@ -11,7 +11,7 @@ import java.util.Objects;
 /**
  * Contains the logic for calculating the match pairings.
  *
- * @author: Christian Slawinger
+ * @author Christian Slawinger
  */
 public class Scheduler {
 
